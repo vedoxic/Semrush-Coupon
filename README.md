@@ -21,7 +21,7 @@ In this guide, I'll explain exactly how to claim these Semrush discounts, compar
 </div><br>
 
 <div align="center">
-    <a href="https://bit.ly/3GUA9aK" target="_blank"><img src="https://github.com/vedoxic/Semrush-Coupon/blob/main/img/Semrush%20Pro%20%2B%20Free%20AI%20Assistant.png" alt="Semrush Pro + Free AI Assistant"/></a>
+    <a href="https://bit.ly/3GUA9aK" target="_blank"><img src="https://github.com/vedoxic/Semrush-Coupon/blob/main/img/Get%20Semrush%20Pro%20%2B%20AI%20Assistant.png" alt="Semrush Pro + Free AI Assistant"/></a>
 </div><br>
 
 ## Top Semrush SEO Coupon Code Deals \[Live\]
@@ -52,7 +52,7 @@ Get a full two weeks to test all Semrush features instead of the standard 7-day 
 This gives you ample time to test the platform's capabilities and determine if it's worth the investment.
 
 <div align="center">
-    <a href="https://semrush.sjv.io/YRLkRm" target="_blank"><img src="https://github.com/vedoxic/Semrush-Coupon/blob/main/img/Claim%20Semrush%20Coupon%20Code.png" alt="Start Your 14-day extended Semrush free trial"/></a>
+    <a href="https://semrush.sjv.io/YRLkRm" target="_blank"><img src="https://github.com/vedoxic/Semrush-Coupon/blob/main/img/Start%20Your%2014-day%20extended%20Semrush%20free%20trial.png" alt="Start Your 14-day extended Semrush free trial"/></a>
 </div>
 
 ### 17% Discount on Annual Plans
@@ -159,7 +159,7 @@ The Business plan is tailored for large agencies and enterprises with its expand
 You'll get Share of Voice metrics, API access for custom integrations, white-label reporting, and product listing ad analytics. The plan also includes priority support and access to Semrush's full suite of enterprise features.
 
 <div align="center">
-    <a href="https://semrush.sjv.io/YRLkRm" target="_blank"><img src="https://github.com/vedoxic/Semrush-Coupon/blob/main/img/Claim%20Semrush%20Coupon%20Code.png" alt="Activate your 17% Semrush Coupon"/></a>
+    <a href="https://semrush.sjv.io/YRLkRm" target="_blank"><img src="https://github.com/vedoxic/Semrush-Coupon/blob/main/img/Activate%20your%2017%25%20Semrush%20Coupon.png" alt="Activate your 17% Semrush Coupon"/></a>
 </div>
 
 ## Top New Semrush Features (2025)
@@ -185,7 +185,7 @@ It's invaluable for discovering new opportunities and understanding your industr
 Semrush now offers robust social media management capabilities, allowing you to schedule posts across platforms, analyze performance, and track engagement metrics—all integrated with your SEO strategy for comprehensive digital marketing management with this [new tool](https://www.semrush.com/kb/756-social-poster).
 
 <div align="center">
-    <a href="https://semrush.sjv.io/YRLkRm" target="_blank"><img src="https://github.com/vedoxic/Semrush-Coupon/blob/main/img/Claim%20Semrush%20Coupon%20Code.png" alt="Claim Semrush's 17% discount"/></a>
+    <a href="https://semrush.sjv.io/YRLkRm" target="_blank"><img src="https://github.com/vedoxic/Semrush-Coupon/blob/main/img/Claim%20Semrush's%2017%25%20discount.png" alt="Claim Semrush's 17% discount"/></a>
 </div>
 
 ## Which Is The Best Value-for-Money Option
@@ -266,7 +266,7 @@ Most Semrush discounts are for new users only. If you're a current or previous c
 If you experience issues applying your discount, contact Semrush support [here](https://www.semrush.com/company/contacts/) for assistance. Their customer service team is responsive and helpful.
 
 <div align="center">
-    <a href="https://semrush.sjv.io/YRLkRm" target="_blank"><img src="https://github.com/vedoxic/Semrush-Coupon/blob/main/img/Claim%20Semrush%20Coupon%20Code.png" alt="Get Exclusive 17% Semrush Discount"/></a>
+    <a href="https://semrush.sjv.io/YRLkRm" target="_blank"><img src="https://github.com/vedoxic/Semrush-Coupon/blob/main/img/Get%20Exclusive%2017%25%20Semrush%20Discount.png" alt="Get Exclusive 17% Semrush Discount"/></a>
 </div>
 
 ## Is Semrush Worth It?
