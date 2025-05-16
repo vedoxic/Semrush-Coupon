@@ -3,10 +3,6 @@
 With the live and **exclusive 17% Semrush discount code** on all Semrush annual plans, the Pro plan is now just $117.33/month instead of $139.95. 
 
 <div align="center">
-    <a href="https://bit.ly/3GUA9aK" target="_blank"><img src="https://github.com/vedoxic/Semrush-Coupon/blob/main/img/Get%20Semrush%20Pro%20%2B%20AI%20Assistant.png" alt="Semrush Pro + Free AI Assistant"/></a>
-</div><br>
-
-<div align="center">
     <a href="https://semrush.sjv.io/yqWxZv" target="_blank"><img src="https://github.com/vedoxic/Semrush-Coupon/blob/main/img/Semrush%20Guru%20Plan%2014%20Days%20Free%20Trial.png" alt="Get 14 Days Trial on Semrush Guru Plan"/></a>
 </div><br>
 
