@@ -120,46 +120,16 @@ The coupon will be applied automatically when you use our specialized link - no 
 
 Here's a more detailed comparison of all Semrush plans, the features they offer, and which should you choose:
 
-<div align="center">
-  
-  | Feature | Free | Pro | Guru | Business |
-  | --- | --- | --- | --- | --- |
-  | Keywords to track | 10 | 500 | 1,500 | 5,000 |
-  | Projects | 1 | 5 | 15 | 40 |
-  | Site audits | Limited | 100K pages | 300K pages | 1M pages |
-  | Keyword database | Limited | Full access | Full access | Full access |
-  | Reports per day | Limited | 3,000 | 5,000 | 10,000 |
-  | Historical data | ❌ | ❌ | ✅ | ✅ |
-  | Content Marketing Platform | ❌ | ❌ | ✅ | ✅ |
-  | API access | ❌ | ❌ | ✅ | ✅ |
-  | White label reports | ❌ | ❌ | ✅ | ✅ |
-  | Share of Voice metrics | ❌ | ❌ | ❌ | ✅ |
-  
+<div align='center'>
+    
+   | Plan | Monthly | Yearly | Discount | Features |
+   | :--- | :---: | :---: | :---: | :--- |
+   | **Free** | $0 | $0 | - |  10 keywords, 1 project, limited audit |
+   | **Pro** | $139.95 | $117.33 | 16% | 500 keywords, 5 projects, 100K page audit |
+   | **Guru** | $249.95 | $208.33 | 17% | 1,500 keywords, 15 projects, historical data, content marketing |
+   | **Business** | $499.95 | $416.66 | 17% | 5,000 keywords, 40 projects, API access, Share of Voice |
+
 </div>
-
-### Free Plan
-
-Semrush offers a limited free account that allows basic keyword research and competitor analysis. You can track 10 keywords, create 1 project, and run limited site audits. 
-
-While useful for exploration, serious marketers will quickly outgrow these restrictions.
-
-### Pro Plan
-
-The Pro plan substantially increases your capabilities with 500 keyword tracking positions, 5 projects, and comprehensive SEO tools. 
-
-You'll get full access to Semrush's keyword database, backlink analysis tools, and position tracking. This plan is ideal for solopreneurs, bloggers, and small websites focusing primarily on SEO.
-
-### Guru Plan
-
-The Guru plan adds significant value with historical data access, letting you see how rankings and traffic have changed over time. 
-
-You'll also get the Content Marketing Platform, Google Data Studio integration, and expanded limits (1,500 keywords, 15 projects). Perfect for agencies managing multiple clients or businesses with substantial content marketing needs.
-
-### Business Plan
-
-The Business plan is tailored for large agencies and enterprises with its expanded limits of 5,000 keywords and 40 projects. 
-
-You'll get Share of Voice metrics, API access for custom integrations, white-label reporting, and product listing ad analytics. The plan also includes priority support and access to Semrush's full suite of enterprise features.
 
 <div align="center">
     <a href="https://semrush.sjv.io/YRLkRm" target="_blank"><img src="https://github.com/vedoxic/Semrush-Coupon/blob/main/img/Activate%20your%2017%25%20Semrush%20Coupon.png" alt="Activate your 17% Semrush Coupon"/></a>
@@ -181,49 +151,34 @@ The expanded limits (1,500 keywords, 15 projects) are sufficient for most busine
 
 Even when an SEO tool is popular and offers exceptional insights, it does have some drawbacks along with its advantages: 
 
-### Pros:
+<div align='center'>
 
-*   Comprehensive all-in-one SEO and marketing toolkit
-    
-*   Extensive keyword database (over 22 billion keywords)
-    
-*   Powerful competitor analysis features
-    
-*   Regular updates and new features
-    
-*   User-friendly interface with helpful visualizations
-    
-*   Excellent support and educational resources
-    
+  | Pros | Cons |
+  | :--- | :--- |
+  | Comprehensive all-in-one SEO and marketing toolkit | Higher price point than some competitors |
+  | Extensive keyword database (over 22 billion keywords) | Can be overwhelming for beginners |
+  | Powerful competitor analysis features | Some advanced features only available on higher-tier plans |
+  | Regular updates and new features | Keyword difficulty scores sometimes differ from actual ranking difficulty |
+  | User-friendly interface with helpful visualizations |  |
+  | Excellent support and educational resources |  |
 
-### Cons:
+</div>
 
-*   Higher price point than some competitors
-    
-*   Can be overwhelming for beginners
-    
-*   Some advanced features only available on higher-tier plans
-    
-*   Keyword difficulty scores sometimes differ from actual ranking difficulty
-    
 
 ## Other Ways to Save on Semrush
 
 If this coupon code doesnt work, and you need more savings with Semrush, you can consider the below ways: 
 
-1.  ### Referral Program
+### 1. Referral Program
     
-
 Semrush occasionally offers referral bonuses when you invite colleagues or clients to join the platform. While these aren't always active, they can provide additional credits or extended subscription periods when you successfully refer new paying customers.
 
-2.  ### Affiliate Program
+### 2. Affiliate Program
     
-
 If you have a blog or online presence, joining Semrush's affiliate program lets you earn commissions by promoting their services. With commission rates up to $200 per sale, this can effectively reduce your own costs if you successfully recommend Semrush to your audience.
 
-3.  ### Seasonal Discounts
+### 3. Seasonal Discounts
     
-
 Watch for special promotions during Black Friday, Cyber Monday, and other major sales events. Semrush typically offers its deepest discounts during these periods, sometimes including additional months free or special bonuses like personalized SEO consultations worth $300.
 
 ## Semrush Promo Code - Troubleshooting Guide
